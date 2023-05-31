@@ -1,2 +1,1 @@
-My first readme is so amazing
-README update from github.com
+My first readme edited is so amazing
